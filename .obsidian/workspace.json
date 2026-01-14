@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "6ea02be37cd081ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2da59fd46ffabbd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8346b2e6aef8f24b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reverb Analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reverb Analysis"
+            }
+          },
+          {
+            "id": "aa41d9ab99378683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reverb Questionnaire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reverb Questionnaire"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8733151a263981e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aae79a21264af21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sound Sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sound Sources"
+            }
+          },
+          {
+            "id": "e2e2fb24d5b18fe8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b566ede87988bc58",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7c91fb98931073f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4304b9f7a51571c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e7d45b18ac412542",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Hamr_M4_System",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3a140a84e2890e7c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "adb23abe92ae1469",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ef842ffceb2adf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2824ece3b73df79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "827d7e3f02b60829",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "3f72f081d45726a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ca0382dc341263b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4304b9f7a51571c7",
+  "lastOpenFiles": [
+    "reverb_analysis_context_handoff.md",
+    "Unconfirmed 891460.crdownload",
+    "Reverb Analysis.md",
+    "Sound Sources.md",
+    "Reverb Questionnaire.md",
+    "Loose Chats",
+    "Loose Chats/Perfect can you clarify which type of sound source is best suited for each task?.md",
+    "Loose Chats/Moving on to signal analysis what tests can I use, ho should I approach it, which tests best identify which elements etc.md",
+    "Loose Chats/Write me a questionnaire I can answer when listening to each preset.md",
+    "Loose Chats/I want to study other reverbs before tuning my reverb. I want to split my studies into two parts, listening tests then signal analysis..md",
+    "timeline.md",
+    "Projects/Ursula.md",
+    "Projects/Seashell.md",
+    "Projects/Neamh.md",
+    "Projects/Ire.md",
+    "Projects/Horizon.md",
+    "Projects/Harmonaig2.md",
+    "Projects/Hamr.md",
+    "Projects/Crois.md",
+    "Projects/Ceithre.md",
+    "Projects/Arbhar.md",
+    "Projects/Niamh.md",
+    "People",
+    "Projects",
+    "People/Kian.md",
+    "People/Seb.md",
+    "People/Noe.md",
+    "People/Jason.md",
+    "People/Finn.md",
+    "People/Adam.md",
+    "Untitled.base",
+    "Projects",
+    "People",
+    "timeline-dark.css"
+  ]
+}
